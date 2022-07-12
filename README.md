@@ -1,2 +1,3 @@
 #demo
-somthing!??
+print("hello
+")
